@@ -23,7 +23,7 @@ Currently, I'm focused on mastering **Backend Engineering** with Python while co
 
 ## 🎯 2026-2027 Goals
 
-- ✅ Become a professional Backend Python Developer
+- ✅ Become a professional Backend Python Developer and Ai
 - 🚀 Build and launch multiple SaaS products
 - 🐳 Master Docker and Kubernetes
 - ☁️ Learn AWS Cloud fundamentals
