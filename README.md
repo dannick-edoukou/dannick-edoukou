@@ -16,7 +16,7 @@ Currently, I'm focused on mastering **Backend Engineering** with Python while co
 - 📚 Always improving my skills through real-world projects
 - 🎯 Goal: Become a Backend Python Engineer while maintaining strong Full Stack expertise
 - 🌍 Based in Abidjan, Côte d'Ivoire
-- 💼 Open to Junior Backend Python and Full Stack Developer opportunities
+- 💼 Open to Full Stack or Backend Python Developer opportunities
 
 ---
 
@@ -45,7 +45,6 @@ Currently, I'm focused on mastering **Backend Engineering** with Python while co
 - Expo
 
 ### Other Technologies
-- Laravel
 - Git & GitHub
 - Linux
 - Docker (Learning)
@@ -53,21 +52,6 @@ Currently, I'm focused on mastering **Backend Engineering** with Python while co
 
 ---
 
-## 📌 Featured Projects
-
-### 🏡 Optinov Immo
-A modern real estate platform built with **React**, **FastAPI**, and **PostgreSQL**, featuring an admin dashboard for managing properties, projects, and news.
-
-### 🏢 SIDT Website
-Developed a modern institutional website using **Next.js** and **Tailwind CSS** with a focus on performance and responsive design.
-
-### 🛒 Marketplace
-A marketplace platform inspired by Vinted where users can publish products and communicate through WhatsApp.
-
-### 🤖 Friendly Discord Bot
-A Python-based Discord bot featuring moderation tools, ticket management, and server utilities.
-
----
 
 ## 📈 Currently Learning
 
@@ -85,7 +69,7 @@ A Python-based Discord bot featuring moderation tools, ticket management, and se
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 2026-2027 Goals
 
 - ✅ Become a professional Backend Python Developer
 - 🚀 Build and launch multiple SaaS products
